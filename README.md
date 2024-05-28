@@ -18,3 +18,8 @@ This project aims to redesign our college's webkoisk portal for students. The ma
 
 - Faster response time
 - Modern UI with ease of navigation and use 
+
+## Screenshots
+
+<img width="1621" alt="DarkMode" src="https://github.com/Pravin-Jalodiya/CollegeConnect/assets/34760247/14092d20-2354-4114-860f-f71d14cdfc34">
+<img width="1620" alt="LightMode" src="https://github.com/Pravin-Jalodiya/CollegeConnect/assets/34760247/80bd64bc-ecab-476c-a8ab-e2495802b488">
