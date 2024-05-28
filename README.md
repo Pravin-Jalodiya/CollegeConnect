@@ -17,4 +17,4 @@ This project aims to redesign our college's webkoisk portal for students. The ma
 ## Features
 
 - Faster response time
-- Modern UI and ease of navigation and use 
+- Modern UI with ease of navigation and use 
