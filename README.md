@@ -1,6 +1,6 @@
 # College Connect
 
-This project aims to redesign our college's webkoisk portal for students. The main objective here is improve the UI by making it modern and easy to navigate as compared to the existing college website. This new website beats the existing webkoisk portal in terms of ease of use (user does not have to manually put Captcha text again and again), UT as well as performance (2x faster response time by removing redundant code and code opitization)
+This project aims to redesign our college's webkoisk portal for students. The main objective here is improve the UI by making it modern and easy to navigate as compared to the existing college website. This new website beats the existing webkoisk portal in terms of ease of use (user does not have to manually put Captcha text again and again), UT as well as performance (upto 2x faster response time by removing redundant code and code opitization)
 
 ## Installation
 
