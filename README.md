@@ -20,10 +20,10 @@ This project aims to redesign our college's webkiosk portal for students. The ma
 - Modern UI with ease of navigation and use 
 
 ## Performance Stats
-### Original site
+### University Website
 <img width="467" alt="Screenshot 2024-06-19 at 10 04 18 AM" src="https://github.com/Pravin-Jalodiya/CollegeConnect/assets/34760247/8eaef013-3d3a-4574-8459-a60779174f73">
 
-### CollegeConnect
+### College Connect
 <img width="467" alt="Screenshot 2024-06-19 at 9 58 58 AM" src="https://github.com/Pravin-Jalodiya/CollegeConnect/assets/34760247/81054762-33ef-4919-a2d7-fb599213def4">
 
 
